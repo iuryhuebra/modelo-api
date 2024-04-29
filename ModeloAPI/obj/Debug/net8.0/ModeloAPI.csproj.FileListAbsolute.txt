@@ -272,3 +272,4 @@ C:\Users\iuryh\Documents\cursos_dio\dotnet\modelo-api\ModeloAPI\obj\Debug\net8.0
 C:\Users\iuryh\Documents\cursos_dio\dotnet\modelo-api\ModeloAPI\obj\Debug\net8.0\ModeloAPI.pdb
 C:\Users\iuryh\Documents\cursos_dio\dotnet\modelo-api\ModeloAPI\obj\Debug\net8.0\ModeloAPI.genruntimeconfig.cache
 C:\Users\iuryh\Documents\cursos_dio\dotnet\modelo-api\ModeloAPI\obj\Debug\net8.0\ref\ModeloAPI.dll
+C:\Users\iuryh\Documents\cursos_dio\dotnet\modelo-api\ModeloAPI\obj\Debug\net8.0\ModeloAPI.sourcelink.json
