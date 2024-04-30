@@ -10,6 +10,7 @@ O principal objetivo deste repositório é documentar e compartilhar o conhecime
 
 1. **Introdução as APIs com C#:** Uma introdução sobre as APIs explicando os principais tópicos e mostrando uma visão geral sobre a utilização das APIs.
 2. **Trabalhando com Entity Framework com C#:** Estudo aprofundado das APIs explicando CRUD, verbos HTTP e conexão ao banco de dados usando Entity Framework.
+3. **Frontend com ASP.NET MVC:** Como criar um projeto MVC do zero de uma página Web com CRUD em um banco de dados SQL Server.
 
 ## Contato
 
